@@ -50,7 +50,7 @@ Boost your crypto trading game with PumpPill PumpFun Sniper Bot, the ultimate So
 
 ## *3. Configuration*
 
-1. Change the .env.example file to .env and then open it & update the values:
+1. Change the .env.copy file to .env and then open it & update the values:
 
    - PRIVATE_KEY: Your wallet's private key.
    - RPC_URL: Your Solana RPC URL.
