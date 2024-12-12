@@ -44,7 +44,7 @@ Boost your crypto trading game with PumpPill PumpFun Sniper Bot, the ultimate So
    ```git clone https://github.com/Gsawahji/pumpfun-sniper-bot.git```
 2. Navigate to the directory: ```cd pumpfun-sniper-bot```
 3. Install dependencies: ```npm install```
-4. Start ```npm start```
+4. Start ```npm run fssb```
 
 ---
 
@@ -63,33 +63,6 @@ Boost your crypto trading game with PumpPill PumpFun Sniper Bot, the ultimate So
   - MIN_MARKET_CAP=500000
   - TAKE_PROFIT=20
   - STOP_LOSS=10
-
----
-
-### Setting Up
-
-1. Run the tool with npm start.
-2. Select "Set settings" from the menu to configure your bot settings including:
-   - Minimum Market Cap
-   - Minimum Reply Count
-   - Require Telegram
-   - Require Website
-   - Require Twitter
-   - Require Revoked Mint Authority and Freeze Authority
-   - Enable Auto Buy
-   - Set Buy Amount
-   - Enable Take Profit
-   - Set Take Profit Percentage
-   - Enable Stop Loss
-   - Set Stop Loss Percentage
-
-### Using the Tool
-
-- **Purchase the Latest Coin:** Buy the latest coin that meets your requirements and sell off for quick profit, even in rugcoins. (This is probably the reason you would be using this bot)
-  
-- **View Positions:** View your current positions and manage them, including selling all positions.
-- **Set Settings:** Configure the bot settings.
-- **Exit:** Exit the tool.
 
 Enjoy automated trading with Pump-Fun-Sniper-Solana!
 
